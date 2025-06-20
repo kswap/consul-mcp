@@ -26,13 +26,11 @@ Model Control Protocol (MCP) is a specification developed by Anthropic that enab
     cd consul-mcp
     ```
 - Install uv
-    ```
     Install from [uv documentation](https://docs.astral.sh/uv/getting-started/installation/).
-  ```
+  
 - Install node
-    ```
-    Install from: [nodejs](https://nodejs.org) or using a package manager
-  ```
+    Install from: [nodejs](https://nodejs.org) or using a package manager.
+  
 - Setup virtual environment
     ```
     uv venv && uv sync
